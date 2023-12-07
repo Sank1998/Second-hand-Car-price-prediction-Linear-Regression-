@@ -1,0 +1,2 @@
+# Second-hand-Car-price-prediction-Linear-Regression-
+A study on the second-hand automobile market in the UK for a particular model and  make, to identifying the most significant factors in determining a used car's pricing. A statistical model is developed to forecast a car's market value solely based on its  mileage, engine size, and other optional extra factors that affect the car's selling price.
